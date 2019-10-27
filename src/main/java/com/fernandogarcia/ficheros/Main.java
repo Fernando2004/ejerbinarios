@@ -1,5 +1,6 @@
 package com.fernandogarcia.ficheros;
 
+import com.fernandogarcia.ficheros.ejerserializar.EjerBiblioteca;
 import com.fernandogarcia.ficheros.escribirarchivobinarios.EscribirFicheroBinario;
 import com.fernandogarcia.ficheros.leerarchivobinarios.LeerAccesoAleatorio;
 import com.fernandogarcia.ficheros.leerarchivobinarios.LeerFicheroBinario;
